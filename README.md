@@ -33,3 +33,23 @@ A página `index.html` foi desenvolvida para apresentar, de forma limpa e objeti
 > 💡 Caso queira alterar a foto, substitua o arquivo `Gestao_SG.png` por outro e ajuste o atributo `src` da tag `<img>` no cabeçalho.
 
 ## 📁 Estrutura do repositório
+.
+├── index.html # Página principal
+├── Gestao_SG.png # Foto de perfil (deve estar na mesma pasta)
+└── README.md # Este arquivo
+
+text
+
+## 🎨 Personalização
+
+- **Cor predominante**: A paleta utiliza `rgb(39, 98, 141)` como cor principal, aplicada em bordas, botões e destaques.
+- **Responsivo**: A página se adapta a dispositivos móveis e telas menores.
+- **Botão WhatsApp**: O número de telefone está configurado para `+5513988301094` – basta alterar o link no `<a>` do cabeçalho, se necessário.
+
+## 📄 Licença
+
+Este projeto é de uso pessoal e está disponível para fins de portfólio. Fique à vontade para adaptá-lo para seu próprio perfil, dando os devidos créditos.
+
+---
+
+Desenvolvido por Silvanio Gois – © 2026
