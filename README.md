@@ -1,55 +1,99 @@
-# Quem Sou Eu – Silvanio Gois
+# Quem Sou Eu — Silvanio Gois
 
-Página institucional com uma visão sintética da minha trajetória profissional e um conjunto de links diretos para conteúdos relevantes sobre minha atuação como Gestor de Operações e Negócios Orientado a Dados.
+Página institucional criada para apresentar, de forma objetiva e organizada, minha trajetória profissional, minha proposta de atuação e um conjunto de conteúdos relevantes sobre meu trabalho como **Gestor de Operações e Negócios Orientado a Dados**.
 
 ## 🖥️ Sobre a página
 
-A página `index.html` foi desenvolvida para apresentar, de forma limpa e objetiva,:
+A página `index.html` foi desenvolvida com foco em **clareza, simplicidade, navegação intuitiva e apresentação profissional**.
 
-- **Cabeçalho** com foto, nome, título e um botão de contato via WhatsApp (abre em nova janela).
-- **Seção "Quem sou eu"** – um breve texto introdutório que contextualiza a existência da página e os links disponíveis.
-- **Grade de links** – oito cards, cada um com um ícone, título, descrição resumida e botão para acessar o conteúdo correspondente (todos abrem em nova aba).
-- **Rodapé** com direitos autorais e link para o site oficial.
-- **Botão "Voltar ao topo"** que aparece ao rolar a página, proporcionando melhor navegação.
+O conteúdo está organizado em:
 
-### Links incluídos
+* **Cabeçalho:** apresenta foto, nome, título profissional e botão de contato via WhatsApp, aberto em uma nova aba.
+* **Seção "Quem Sou Eu":** apresenta uma breve introdução sobre minha trajetória e o propósito da página.
+* **Grade de conteúdos:** reúne oito cards, cada um com ícone, título, descrição resumida e acesso direto ao conteúdo correspondente.
+* **Rodapé:** apresenta informações de direitos autorais e link para o site oficial.
+* **Botão "Voltar ao Topo":** aparece durante a rolagem da página para facilitar a navegação.
 
-| Destino | URL |
-|---------|-----|
-| Síntese Pessoal e Profissional | https://silvaniosg.github.io/sintese_pessoal_e_profissional/ |
-| Entrevista | https://silvaniosg.github.io/entrevista/ |
-| Proposta de Valor | https://silvaniosg.github.io/Proposta-de-valor/ |
-| Método de Gestão | https://silvaniosg.github.io/O_Metodo_de_Gestao_de_Silvanio_Gois/ |
-| Gestor em Performance e Otimização | https://silvaniosg.github.io/Gestor_em_Performance_e_Otimizacao_de_Processos/ |
-| GitHub | https://github.com/SilvanioSG |
-| LinkedIn | https://www.linkedin.com/in/silvanio-gois/ |
-| Site Oficial | https://www.silvaniogois.com.br/ |
+## 🔗 Conteúdos e links
+
+| Conteúdo                                            | Acesso                                                                                   |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Síntese Pessoal e Profissional**                  | [Acessar](https://silvaniosg.github.io/sintese_pessoal_e_profissional/)                  |
+| **Entrevista**                                      | [Acessar](https://silvaniosg.github.io/entrevista/)                                      |
+| **Proposta de Valor**                               | [Acessar](https://silvaniosg.github.io/Proposta-de-valor/)                               |
+| **Método de Gestão**                                | [Acessar](https://silvaniosg.github.io/O_Metodo_de_Gestao_de_Silvanio_Gois/)             |
+| **Gestor em Performance e Otimização de Processos** | [Acessar](https://silvaniosg.github.io/Gestor_em_Performance_e_Otimizacao_de_Processos/) |
+| **GitHub**                                          | [Acessar](https://github.com/SilvanioSG)                                                 |
+| **LinkedIn**                                        | [Acessar](https://www.linkedin.com/in/silvanio-gois/)                                    |
+| **Site Oficial**                                    | [Acessar](https://www.silvaniogois.com.br/)                                              |
 
 ## 🚀 Como visualizar
 
-1. **Baixe os arquivos** – coloque o `index.html` e a imagem `Gestao_SG.png` na mesma pasta.
-2. **Abra o arquivo `index.html`** em qualquer navegador moderno.
+### Visualização local
 
-> 💡 Caso queira alterar a foto, substitua o arquivo `Gestao_SG.png` por outro e ajuste o atributo `src` da tag `<img>` no cabeçalho.
+1. Baixe ou clone este repositório.
+2. Mantenha o arquivo `index.html` e a imagem `Gestao_SG.png` no mesmo diretório.
+3. Abra o arquivo `index.html` em qualquer navegador moderno.
+
+### 🌐 Publicação com GitHub Pages
+
+Caso o repositório esteja configurado para utilização do **GitHub Pages**, a página poderá ser acessada diretamente pelo endereço público disponibilizado pelo GitHub.
 
 ## 📁 Estrutura do repositório
+
+```text
 .
-├── index.html # Página principal
-├── Gestao_SG.png # Foto de perfil (deve estar na mesma pasta)
-└── README.md # Este arquivo
+├── index.html       # Página principal
+├── Gestao_SG.png    # Foto utilizada no cabeçalho
+└── README.md        # Documentação do projeto
+```
 
-text
+## 🎨 Características e personalização
 
-## 🎨 Personalização
+### Identidade visual
 
-- **Cor predominante**: A paleta utiliza `rgb(39, 98, 141)` como cor principal, aplicada em bordas, botões e destaques.
-- **Responsivo**: A página se adapta a dispositivos móveis e telas menores.
-- **Botão WhatsApp**: O número de telefone está configurado para `+5513988301094` – basta alterar o link no `<a>` do cabeçalho, se necessário.
+A página utiliza uma paleta visual baseada na cor:
 
-## 📄 Licença
+```css
+rgb(39, 98, 141)
+```
 
-Este projeto é de uso pessoal e está disponível para fins de portfólio. Fique à vontade para adaptá-lo para seu próprio perfil, dando os devidos créditos.
+A cor principal é aplicada em elementos como **bordas, botões, destaques e componentes de navegação**.
+
+### 📱 Design responsivo
+
+A interface foi desenvolvida para se adaptar a diferentes tamanhos de tela, proporcionando uma experiência adequada em:
+
+* Computadores;
+* Notebooks;
+* Tablets;
+* Smartphones.
+
+### 📲 Botão de contato via WhatsApp
+
+O botão de contato utiliza o número configurado no link do WhatsApp:
+
+```text
++55 13 98830-1094
+```
+
+Para alterar o número, basta modificar o link correspondente no elemento `<a>` do cabeçalho do arquivo `index.html`.
+
+### 🖼️ Alteração da foto
+
+Para substituir a imagem utilizada no cabeçalho:
+
+1. Adicione a nova imagem ao diretório do projeto.
+2. Altere o atributo `src` da tag `<img>` no arquivo `index.html`.
+3. Caso queira manter a mesma referência, substitua o arquivo `Gestao_SG.png` pela nova imagem, preservando o nome do arquivo.
+
+## 📄 Licença e uso
+
+Este projeto foi desenvolvido para **uso pessoal e apresentação profissional/portfólio**.
+
+O código e a estrutura podem ser utilizados como referência ou adaptados para outros projetos. Caso partes relevantes deste projeto sejam reutilizadas, recomenda-se manter os devidos créditos ao autor.
 
 ---
 
-Desenvolvido por Silvanio Gois – © 2026
+**Desenvolvido por Silvanio Gois**
+© 2026 Silvanio Gois
